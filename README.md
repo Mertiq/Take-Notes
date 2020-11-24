@@ -1,4 +1,4 @@
-# Take Notes
+# Take Notes 
 
 This is a project which help you to take note, made with React. 
 
